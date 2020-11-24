@@ -1,7 +1,8 @@
 .box {
-  height: 500px;
+  height: 100%;
   background-color:rgb(66, 63, 63);
 }
 .dayLight {
+  height: 100%;
   background-color: yellow;
 }
